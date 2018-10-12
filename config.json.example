@@ -1,0 +1,4 @@
+{
+    "captchaSecret": "yourrecaptchasecretkey",
+    "sendMailTo":"example@example.com"
+}
