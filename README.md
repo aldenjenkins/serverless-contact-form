@@ -1,6 +1,8 @@
 # Serverless Email Contact Form
 Send contact form emails using Serverless with AWS Lambda and AWS SES
 
+![](docs/demo.gif)
+
 ## Prerequisites
 You will need:
 
